@@ -10,7 +10,7 @@ export default function Navbar() {
                 <li><Link to='/profile into'>profile into</Link></li>
                 <li><Link to='/Order'>Order</Link></li>
                 <li><Link to='/Setting'>Settings</Link></li>
-                <li><Link to='/Setting'>Settingssss</Link></li>
+
             </ul>
         </nav>
     )
